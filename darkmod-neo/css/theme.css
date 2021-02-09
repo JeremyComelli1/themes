@@ -1292,7 +1292,7 @@ fieldset legend
 	-moz-border-radius:2px;
 	-webkit-border-radius:2px;
 	border:1px solid #aaa;
-	background-color:#9D50BB;
+	background-color:#287a5c;
 	max-width:100%;
 	width:initial;
 	font-size:1rem
@@ -1645,7 +1645,7 @@ div.success,div.notice,div.error
 }
 h1.success,div.success
 {
-	border-color:#E50CF5
+	border-color:#287a5c
 }
 .success h1
 {
@@ -1659,7 +1659,7 @@ h1.success,div.success
 
 h1.notice,div.notice
    {
-	   border-color:#E50CF5
+	   border-color:#1c5c45
    }
 .notice h1
 {
@@ -1716,7 +1716,7 @@ div.tools a:link,div.tools a:visited,div.tools a:active
 }
 .tblFooters a:link,.tblFooters a:active,.tblFooters a:visited
 {
-	color:blue
+	color:#3e4bbd
 }
 .tblHeaders a:hover,div.tools a:hover,.tblFooters a:hover
 {
@@ -2696,7 +2696,7 @@ div.sqlvalidate
 }
 .group h2
 {
-	background-color:#9d50bb;
+	background-color:#287a5c;
 	padding:.1em .3em;
 	margin-top:0;
 	color:#fff;
